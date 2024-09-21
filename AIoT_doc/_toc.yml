@@ -5,6 +5,6 @@ format: jb-book
 root: intro
 parts:
   - caption: Instalación del entorno
-  chapters:
-  - file: entorno/instalacion_ubuntu_mac_arm
+    chapters:
+    - file: entorno/instalacion_ubuntu_mac_arm
   
