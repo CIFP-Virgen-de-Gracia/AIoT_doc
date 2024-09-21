@@ -1,0 +1,1 @@
+# Instalación de Ubuntu Server con GUI en MACOS con arquitectura ARM (M3)

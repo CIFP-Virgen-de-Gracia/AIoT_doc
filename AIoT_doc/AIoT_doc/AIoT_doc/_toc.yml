@@ -1,0 +1,9 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+  - caption: Preparación entorno de pruebas
+  chapters:
+  - file: entorno/instalacion_ubuntu_mac_arm
