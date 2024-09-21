@@ -4,6 +4,7 @@
 format: jb-book
 root: intro
 parts:
-  - caption: Preparación entorno de pruebas
+- section: Instalación del entorno
   chapters:
   - file: entorno/instalacion_ubuntu_mac_arm
+  
