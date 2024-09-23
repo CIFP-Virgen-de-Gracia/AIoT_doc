@@ -7,4 +7,6 @@ parts:
   - caption: Instalación del entorno
     chapters:
     - file: entorno/instalacion_ubuntu_mac_arm
+    - file: entorno/instalacion_entorno_docker
+    
   
