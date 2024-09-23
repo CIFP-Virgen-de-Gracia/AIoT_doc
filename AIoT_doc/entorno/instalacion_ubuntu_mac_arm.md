@@ -32,3 +32,13 @@ reboot
 
 ![alt text](image-2.png)
 
+## Instalación de VMWare Tools
+
+Entramos en la máquina virtual de Ubuntu server y abrimos un terminal:
+
+```bash
+sudo apt-get update
+sudo apt-get install open-vm-tools-desktop
+sudo reboot
+```
+
