@@ -23,7 +23,7 @@ Para poder reiniciar, debemos expulsar el CD
 
 ![alt text](image-1.png)
 
-## Instalación de GUI para Ubuntu Server
+## Instalción de GUI para Ubuntu Server
 
 ```{bash}
 sudo apt install ubuntu-desktop
