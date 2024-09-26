@@ -8,5 +8,7 @@ parts:
     chapters:
     - file: entorno/instalacion_ubuntu_mac_arm
     - file: entorno/instalacion_entorno_docker
-    
+  - caption: Pruebas sensores
+    chapters:
+    - file: pruebas/temperatura_humedad
   

@@ -111,3 +111,17 @@ Comprobar que el contenedor Home Assistant se está ejecutando.
 - Accedemos a **Home Assistant** desde http://127.0.0.1:8123
 
 ![alt text](image-14.png)
+
+- Creamos una cuenta de usuario en **Home Assistant**:
+
+usuario/usuario
+
+![alt text](image-16.png)
+
+- Añadimos la ubicación donde estará el servidor de Home Assistant.
+
+![alt text](image-17.png)
+
+## Configuración de Home Assistant
+
+Podemos configurar **Home Assistant** desde la IU en **Settings** o desde el fichero de configuración `/docker/homeassistant/configuration.yaml`.
