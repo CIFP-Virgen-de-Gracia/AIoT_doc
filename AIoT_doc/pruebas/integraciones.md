@@ -61,11 +61,9 @@ services:
       - "8883:8883"
 ```
 ```
-Vamos a crear un fichero de configuración, para ello:
-```{warning}
-Debemos tener el contenido del curso descargado de:
-http://github.com/sescolar/cursos.git
-```
+Vamos a crear un fichero de configuración, para ello debemos tener el contenido del curso descargado de:
+**http://github.com/sescolar/cursos.git**
+
 
 ![alt text](image-10.png)
 - Creamos un fichero de configuración `mosquitto.conf`
