@@ -61,10 +61,12 @@ services:
       - "8883:8883"
 ```
 ```
+
 ```{warning}
 Debemos tener el contenido del curso descargado de:
 http://github.com/sescolar/cursos.git
 ```
+
 ![alt text](image-10.png)
 - Creamos un fichero de configuración `mosquitto.conf`
 ```bash

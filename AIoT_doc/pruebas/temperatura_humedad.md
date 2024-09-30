@@ -24,8 +24,7 @@ Al conectarnos a la red WIFI obtendremos una dirección IP por DHCP
 
 ## Firmware
 
-**Inicio -> Settings -> Firmware
-**
+**Inicio -> Settings -> Firmware**
 Actualizar a la última versión.
 
 ![alt text](image-3.png)
