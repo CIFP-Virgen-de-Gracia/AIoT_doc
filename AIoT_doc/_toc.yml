@@ -11,4 +11,5 @@ parts:
   - caption: Pruebas sensores
     chapters:
     - file: pruebas/temperatura_humedad
+    - file: pruebas/integraciones
   
