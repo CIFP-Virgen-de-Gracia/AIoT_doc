@@ -35,7 +35,6 @@
       - "1883:1883"
       - "8883:8883"
   ```
-```{note}
 El stack de HA se quedará:
 ```yaml
 services:
@@ -60,10 +59,11 @@ services:
       - "1883:1883"
       - "8883:8883"
 ```
-```
+
+```{warning}
 Vamos a crear un fichero de configuración, para ello debemos tener el contenido del curso descargado de:
 **http://github.com/sescolar/cursos.git**
-
+```
 
 ![alt text](image-10.png)
 - Creamos un fichero de configuración `mosquitto.conf`
