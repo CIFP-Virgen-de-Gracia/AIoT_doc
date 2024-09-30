@@ -13,8 +13,7 @@
   
 ## Configuración de la WIFI del dispositivo
 
-**Inicio -> Settings -> Network Settings -> WIFI Settings -> WiFi Settings 1
-**
+**Inicio -> Settings -> Network Settings -> WIFI Settings -> WiFi Settings 1**
 - Enable WIFI Network
 - SSID: Escribir el SSID de la red WIFI del servidor HA y el password
 - Save Settings
