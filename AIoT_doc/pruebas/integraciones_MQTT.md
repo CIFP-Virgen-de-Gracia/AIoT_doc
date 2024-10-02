@@ -15,3 +15,11 @@
 
 <img src="/image-19.png" width="58"/>
 <img src="/image-20.png" width="58"/>
+
+# Obtener un mensaje MQTT del dispositivo Shelly H&T
+
+- Abrir un terminal en el servidor de Home Assistant
+- Ejecutar un subscriptor MQTT de cualquier topic “#”
+
+
+Esperar a recibir un mensaje del dispositivo
