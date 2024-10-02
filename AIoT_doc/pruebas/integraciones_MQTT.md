@@ -13,8 +13,8 @@
     Nombre de usuario y password que escribiste cuando instalaste MQTT (opcional)
     Save Settings
 
-<img src="/image-19.png" width="58"/>
-<img src="/image-20.png" width="58"/>
+<img src="image-19.png" width="58"/>
+<img src="image-20.png" width="58"/>
 
 # Obtener un mensaje MQTT del dispositivo Shelly H&T
 
