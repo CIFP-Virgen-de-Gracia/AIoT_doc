@@ -6,9 +6,13 @@
 - Abrir un navegador desde el dispositivo y escribir la URL http://192.168.33.1
 - Configurar el cliente MQTT (publisher)
 - `Settings -> Connectivity Settings -> MQTT`
+    
     `Enable MQTT network`
+
     `No SSL`
+
     `MQTT prefix: topic en el mensaje, por ejemplo “shellyh&t1”`
+    
     Dirección IP y puerto 1883 del servidor MQTT
     Nombre de usuario y password que escribiste cuando instalaste MQTT (opcional)
     Save Settings
