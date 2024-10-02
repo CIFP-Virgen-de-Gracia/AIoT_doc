@@ -25,5 +25,12 @@
 - Abrir un terminal en el servidor de Home Assistant
 - Ejecutar un subscriptor MQTT de cualquier topic “#”
 
+```bash
+mosquitto_sub -v -h localhost -p 1883 -t '#'
+```
 
-Esperar a recibir un mensaje del dispositivo
+Esperar a recibir un mensaje del dispositivo.
+
+```{warning}
+En este punto estoy. No llegan los mensajes de Shelly, sí si los mando por consola.
+```
