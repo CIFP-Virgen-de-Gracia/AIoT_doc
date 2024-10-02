@@ -83,6 +83,27 @@ sudo apt-get install mosquitto-clients
 - **Integrations -> Add integration -> MQTT**
 ![alt text](image-11.png)
 
-Necesitamos un brocker MQTT
+Miramos la IP del broker
+![alt text](image-13.png)
 
-![alt text](image-12.png)
+Connfiguramos los datos en base a eso:
+![alt text](image-14.png)
+
+Si se ha configurado con éxito aparecerá en el dashboard de integraciones:
+![alt text](image-15.png)
+
+Vamos a comprobar que funciona:
+`Settings -> Devices & Services -> Integration -> MQTT -> Configure`
+- Subscribir al topic “/topic/prueba” 
+- Publicar en el topic “/topic/prueba” el mensaje “hola”
+
+![alt text](image-16.png)
+
+También podemos publicar y suscribirnos por comandos. Por ejemplo, para publicar:
+```bash
+mosquitto_pub -h 172.18.0.2 -p 1883 -t /topic/prueba -m "Adios"
+```
+
+![alt text](image-17.png)
+
+![alt text](image-18.png)
