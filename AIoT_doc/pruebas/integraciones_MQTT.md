@@ -32,5 +32,5 @@ mosquitto_sub -v -h localhost -p 1883 -t '#'
 Esperar a recibir un mensaje del dispositivo.
 
 ```{warning}
-En este punto estoy. No llegan los mensajes de Shelly, sí si los mando por consola.
+Es muy importante que la máquina virtual esté configurada con el modo **Bridge** para que coja una ip nueva de la red
 ```

@@ -40,6 +40,10 @@ Actualizar a la última versión.
 ![alt text](image-4.png)
 
 
+## Aplicación
 
+```{warning}
+Podemos instalar la app de **Shelly** para el móvil y se simplifican mucho estas configuraciones.
+```
 
 

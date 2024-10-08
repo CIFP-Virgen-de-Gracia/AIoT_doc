@@ -58,6 +58,7 @@ services:
     ports:
       - "1883:1883"
       - "8883:8883"
+    network_mode: host
 ```
 
 ```{warning}
