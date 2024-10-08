@@ -88,7 +88,7 @@ Miramos la IP del broker
 ![alt text](image-13.png)
 
 Connfiguramos los datos en base a eso:
-![alt text](image-14.png)
+![alt text](image-21.png)
 
 Si se ha configurado con éxito aparecerá en el dashboard de integraciones:
 ![alt text](image-15.png)
@@ -102,9 +102,9 @@ Vamos a comprobar que funciona:
 
 También podemos publicar y suscribirnos por comandos. Por ejemplo, para publicar:
 ```bash
-mosquitto_pub -h 172.18.0.2 -p 1883 -t /topic/prueba -m "Adios"
+mosquitto_pub -h 192.168.203.74 -p 1883 -t /topic/prueba -m "Adiós"
 ```
 
-![alt text](image-17.png)
+![alt text](image-22.png)
 
 ![alt text](image-18.png)
