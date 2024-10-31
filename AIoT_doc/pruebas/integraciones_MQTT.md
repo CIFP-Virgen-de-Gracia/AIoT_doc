@@ -35,3 +35,12 @@ mosquitto_sub -v -h localhost -p 1883 -t '#'
 Esperar a recibir un mensaje del dispositivo.
 
 ![alt text](image-24.png)
+
+Si queremos tener un formato específico, podemos utilizar:
+```bash
+mosquitto_sub -h ip -p 1883 -t '#' -v -F "%I %t %p %J"
+```
+
+![alt text](image-25.png)
+
+

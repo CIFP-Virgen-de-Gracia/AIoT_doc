@@ -37,6 +37,10 @@ Actualizar a la última versión.
 - URL de acceso al servidor: `ws://<dir_IP_HA>:8123/api/shelly/ws`
 - Save settings
 
+```{warning}
+La IP del servidor actual hay que mirarla en la documentación del equipo de Teams correspondiente
+```
+
 ![alt text](image-4.png)
 
 

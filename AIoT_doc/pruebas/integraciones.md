@@ -2,6 +2,10 @@
 
 ## Integración oficial
 
+```{warning}
+Las IP actuales están en la documentación del equipo de Teams del proyecto
+```
+
 - Desde la UI de Home Assistant
   - **Device & Services -> Integrations -> + Integration**
   - Escribir Shelly
